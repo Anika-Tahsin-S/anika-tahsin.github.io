@@ -9,23 +9,27 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
     <p>Dhaka, Bangladesh</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-announcements:
-  enabled: false # includes a list of news items
-  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+# announcements:
+#   enabled: false # includes a list of news items
+#   scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+#   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: false
-  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: false
+#   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 ---
+
+Anika Tahsin is a graduate researcher in the Department of Computer Science at BRAC University, where she also serves as Vice President of the Computer Vision and Intelligent Systems Research Lab (CVIS Lab). She is pursuing her Master of Science in Computer Science and Engineering, following her Bachelor’s degree at BRAC University, where she graduated with distinction and received the Best Thesis Award.
+
+Her research explores computer vision, deep learning, and multimodal AI, with applications in medical imaging, environmental monitoring, and natural language processing. She has contributed to publications currently under review at IEEE JSTARS, IEEE Access, Clinical Imaging, PeerJ Computer Science, and other venues. Her projects span unsupervised semantic segmentation for wetland monitoring, lightweight pipelines for MRI segmentation, wildfire prediction, and NLP for sarcasm detection.
+
+She has received several distinctions, including First Runner-Up in the National NLP Hackathon, the Best Technical Presentation Award at ICCIT 2024, and multiple merit scholarships. Beyond research, she has led workshops and mentored undergraduates in machine learning and deep learning, fostering practical skills in AI model development and deployment.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
