@@ -497,21 +497,21 @@ ninja.data = [{
         title: 'Kaggle',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.kaggle.com/https://www.kaggle.com/anikatahsin8", "_blank");
+          window.open("https://www.kaggle.com/anikatahsin8", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/anika-tahsin-936461218/", "_blank");
+          window.open("https://www.linkedin.com/in/anika-tahsin-936461218/", "_blank");
         },
       },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/https://orcid.org/0009-0009-0115-9009", "_blank");
+          window.open("https://orcid.org/0009-0009-0115-9009", "_blank");
         },
       },{
         id: 'social-scholar',
