@@ -265,11 +265,15 @@
   "references": [
     {
       "name": "Md. Golam Rabiul Alam, PhD",
-      "reference": "Professor, Department of CSE, BRAC University, Dhaka, Bangladesh. Email: rabiul.alam@bracu.ac.bd"
+      "reference": "Professor, Department of CSE, BRAC University, Dhaka, Bangladesh. ",
+      "Email": "rabiul.alam@bracu.ac.bd", 
+      "url": "https://www.bracu.ac.bd/about/people/md-golam-rabiul-alam-phd", 
+      "google_scholar": "https://scholar.google.com/citations?user=t4GrJR4AAAAJ&hl=en"
     },
     {
       "name": "S. M. Masrur Ahmed",
-      "reference": "Former Senior Engineer at bKash; PhD student, University of Houston. Email: smmasrur.ahmed@bkash.com, sahmed75@uh.edu"
+      "reference": "Former Senior Engineer at bKash; PhD student, University of Houston",
+      "Email": "smmasrur.ahmed@bkash.com, sahmed75@uh.edu"
     }
   ]
 }
