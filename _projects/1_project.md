@@ -27,7 +27,7 @@ Evaluated with Dice/IoU/Precision/Recall/F1 and performed a threshold sweep to o
   </div>
 </div>
 <div class="caption">
-  Left: original slice. Middle: binary mask. Right: overlay with U-Net (MobileNetV2) prediction.
+  Left: Input Image. Middle: Ground Truth. Right: Segmentation with U-Net (MobileNetV2) prediction.
 </div>
 
 **Highlights**
