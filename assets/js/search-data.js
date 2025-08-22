@@ -490,7 +490,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/https://github.com/Anika-Tahsin-S", "_blank");
+          window.open("https://github.com/Anika-Tahsin-S", "_blank");
         },
       },{
         id: 'social-kaggle',
