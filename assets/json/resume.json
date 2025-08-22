@@ -101,14 +101,14 @@
       "position": "Student Tutor",
       "startDate": "2023-02-01",
       "endDate": "2023-04-01",
-      "summary": "Tutored PHY111 students in physics concepts."
+      "summary": "Tutored PHY 111: Principles of Physics I students in physics concepts."
     },
     {
       "name": "BRAC University",
       "position": "Student Tutor",
       "startDate": "2024-02-01",
       "endDate": "2024-04-01",
-      "summary": "Tutored MAT110 students, providing tailored support."
+      "summary": "Tutored MAT 110: MATH I Differential Calculus and Co-ordinate Geometry students, providing tailored support."
     }
   ],
   "projects": [
