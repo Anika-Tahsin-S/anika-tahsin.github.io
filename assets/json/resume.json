@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Anika Tahsin",
-    "label": "Graduate Researcher",
+    "label": "Graduate Research Assistant, Department of CSE at BRAC University",
     "image": "https://orcid.org/0009-0009-0115-9009",
-    "email": "anika.tahsin8658@gmail.com",
-    "phone": "+8801610898555",
+    "email": "anika.tahsin5@g.bracu.ac.bd",
+    // "phone": "+8801610898555",
     "url": "https://github.com/Anika-Tahsin-S",
     "summary": "Graduate researcher in Computer Science specializing in computer vision, deep learning, and artificial intelligence, with strong academic background and multiple publications.",
     "location": {
@@ -68,7 +68,7 @@
       "institution": "BRAC University",
       "location": "Dhaka, Bangladesh",
       "url": "https://www.bracu.ac.bd/",
-      "area": "Computer Science & Engineering",
+      "area": "Computer Science",
       "studyType": "Master of Science",
       "startDate": "2025-06-01",
       "endDate": "",
