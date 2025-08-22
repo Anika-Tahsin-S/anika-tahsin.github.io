@@ -14,6 +14,7 @@ related_publications: true
 - Evaluated with Dice/IoU/Precision/Recall/F1 and performed a threshold sweep to optimize inference.
 
 **Repo:** [GitHub](https://github.com/Anika-Tahsin-S/MRI_Segmentation_with_U-Net_MobileNetV2_encoder)
+**Dataset:** [Kaggle](https://www.kaggle.com/datasets/sudipde25/mri-dataset-for-detection-and-analysis/data)
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
