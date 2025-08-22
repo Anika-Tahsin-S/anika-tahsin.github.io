@@ -433,9 +433,9 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "projects-brain-mri-segmentation-with-u-net-mobilenetv2-encoder",
+          title: 'Brain MRI Segmentation with U-Net (MobileNetV2 Encoder)',
+          description: "Lightweight medical image segmentation pipeline (PyTorch + SMP)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-project-2",
