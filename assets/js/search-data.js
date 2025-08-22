@@ -417,24 +417,24 @@ ninja.data = [{
           description: "Lightweight medical image segmentation pipeline (PyTorch + SMP)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-ship-detection-in-aerial-images-using-yolov10",
+          title: 'Ship Detection in Aerial Images Using YOLOv10',
+          description: "Real-time object detection pipeline for maritime monitoring",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-wildfire-scale-prediction-using-machine-learning",
+          title: 'Wildfire Scale Prediction Using Machine Learning',
+          description: "Regression and neural networks on historical wildfire data",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-intended-sarcasm-detection-in-english-semeval-2022-task-a",
+          title: 'Intended Sarcasm Detection in English (SemEval 2022 Task A)',
+          description: "Transformer-based NLP with bias-aware labeling and BERT fine-tuning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-soundtrove-musical-instrument-rental-platform",
+          title: 'SoundTrove — Musical Instrument Rental Platform',
+          description: "Full-stack Laravel + MySQL application for rentals and reviews",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project.html";
             },},{id: "projects-project-6",
