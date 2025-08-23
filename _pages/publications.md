@@ -12,7 +12,7 @@ nav_order: 2
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
-
+<!-- 
 
 ## 2025
 GeoSemantic Flux: Unsupervised Semantic Segmentation for Localization of Wetland Area Fluctuations from Satellite Image  
@@ -54,7 +54,7 @@ In International Conference on Multidisciplinary Computer Science, Electrical, B
 ## 2024
 Q-learning based Automated Message Multicast in Gossip Protocol for Node Confirmation in IOTA Tangle  
 Mahmuda Keya, Shovon Mandal, Swarojani Dhar, H M Tahsin, Morshed Siam, Anika Tahsin, Md. Golam Rabiul Alam, Md. Zia Uddin  
-In 27th International Conference on Computer and Information Technology (ICCIT), 2024 (accepted)
+In 27th International Conference on Computer and Information Technology (ICCIT), 2024 (accepted) -->
 
 ---
 
