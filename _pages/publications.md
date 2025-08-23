@@ -13,8 +13,52 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+
+## 2025
+GeoSemantic Flux: Unsupervised Semantic Segmentation for Localization of Wetland Area Fluctuations from Satellite Image  
+Anika Tahsin, S M Masrur Ahmed, Maisha Fairooz, Gazi Rehan Rabbi, Md. Golam Rabiul Alam, Md Zia Uddin  
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025 (submitted)
+
+A Real-Time ETP Outlet Monitoring Framework Leveraging Environmental IoT, Colorimetry, and Learning Theory  
+Md. Jahid Hasan Mridha, Md. Mehedi Hossain, Sazid Md. Imran, Sk Ayub Al Wahid, Anika Tahsin, Md. Golam Rabiul Alam, ASHIS TALUKDER, Ahmed Wasif Reza  
+IEEE Access, 2025 (accepted)
+
+Explainable Multimodal Fusion for Breast Carcinoma Diagnosis: A Systematic Review, Open Problems, and Future Directions  
+Mohammad Mehedi Hassan, Anika Tahsin, Md Golam Rabiul Alam, Deema Alzamil, Sahil Garg, Nurul Choudhury, Giancarlo Fortino  
+Clinical Imaging, 2025 (under review)
+
+A Systematic Review on Machine Learning Paradigms: Taxonomy, Models, Purposes, Applications, Comparative Benefits, and Future Research Opportunities  
+Mohammed Julfikar Ali Mahbub, Shoaib Ahmed Dipu, Rakibul Hasan, Md. Fahim-Ul-Islam, Md. Mahadi Hasan, Anika Tahsin, Md. Golam Rabiul Alam, Md Zia Uddin  
+PeerJ Computer Science, 2025 (under review)
+
+A Comprehensive Review on Statistical and AI-Driven Approaches for Time-Series and Time-Sequential Data  
+Anika Tahsin  
+SN Computer Science, 2025 (under review)
+
+A Diversiform Brain Tumor Classification Leveraging Hybrid Recursive MRI Image Enhancement Pipeline for T1, T2, and T1C+ Images and Utilizing A Coalition of CoatNet–HorNet Transformers  
+Tasnim Sakib Apon, Anika Tahsin, Md. Golam Rabiul Alam  
+Biomedical Signal Processing and Control, 2025 (under review)
+
+Wildfire Scale Prediction Using Regression and Neural Network Models: An Experimental Study with MTBS Dataset  
+Anika Tahsin, Md. Golam Rabiul Alam  
+In International Conference on Multidisciplinary Computer Science, Electrical, Business & Literature (ICMCEL), 2025 (submitted)
+
+Biologically Plausible Learning for NLP Using Spiking Neural Networks  
+Tazrian Hossain, Adiba Amreen Alam, Nafisa Rahman, Maisa Kabir, Nafis Al Shams, Anika Tahsin, Md. Golam Rabiul Alam  
+In International Conference on Multidisciplinary Computer Science, Electrical, Business & Literature (ICMCEL), 2025 (submitted)
+
+Generative AI Meets Responsible AI and Affective Computing  
+Kamran Hassan Shomrat, Md. Saiful Islam, Jamilatun Subarna, Gazi Arman Islam, Atkea Eva, Anika Tahsin, Md. Golam Rabiul Alam  
+In International Conference on Multidisciplinary Computer Science, Electrical, Business & Literature (ICMCEL), 2025 (submitted)
+
+## 2024
+Q-learning based Automated Message Multicast in Gossip Protocol for Node Confirmation in IOTA Tangle  
+Mahmuda Keya, Shovon Mandal, Swarojani Dhar, H M Tahsin, Morshed Siam, Anika Tahsin, Md. Golam Rabiul Alam, Md. Zia Uddin  
+In 27th International Conference on Computer and Information Technology (ICCIT), 2024 (accepted)
+
+---
+
+<!-- Optional: also render your full .bib dynamically below -->
 <div class="publications">
-
 {% bibliography %}
-
 </div>
