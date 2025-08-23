@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Brain MRI Segmentation with U-Net (MobileNetV2 Encoder)
-description: Lightweight medical image segmentation pipeline (PyTorch + SMP)
+description: Lightweight U-Net with MobileNetV2 encoder (via segmentation-models-pytorch) for 2D MRI/CT segmentation on Kaggle’s “MRI dataset for detection and analysis.” Converts 3D NIfTI to 2D, z-score normalizes images, binarizes masks (nearest-neighbor). Trains with BCE+Dice, AMP, grad clipping, early stopping; runs a threshold sweep and outputs visual tools overlay predictions.
 img: assets/img/projects/mri/mri.jpg
 importance: 1
 category: solo
