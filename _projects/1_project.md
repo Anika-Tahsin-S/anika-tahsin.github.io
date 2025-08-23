@@ -4,7 +4,7 @@ title: Brain MRI Segmentation with U-Net (MobileNetV2 Encoder)
 description: Lightweight medical image segmentation pipeline (PyTorch + SMP)
 img: assets/img/projects/mri/mri.jpg
 importance: 1
-category: work
+category: solo
 related_publications: true
 ---
 

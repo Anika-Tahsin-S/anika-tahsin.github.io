@@ -4,7 +4,7 @@ title: Wildfire Scale Prediction Using Machine Learning
 description: Regression and neural networks on historical wildfire data
 img: assets/img/projects/wildfire/cover.png
 importance: 3
-category: work
+category: conference
 related_publications: true
 ---
 

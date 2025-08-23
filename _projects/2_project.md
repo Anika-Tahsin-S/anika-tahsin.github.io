@@ -4,7 +4,7 @@ title: Ship Detection in Aerial Images Using YOLOv10
 description: Real-time object detection pipeline for maritime monitoring
 img: assets/img/projects/ships/cover.png
 importance: 2
-category: work
+category: solo
 related_publications: true
 ---
 
