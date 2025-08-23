@@ -4,7 +4,7 @@ title: GeoSemantic Flux (GSF): Unsupervised Semantic Segmentation for Wetland Fl
 description: Vision–language-assisted unsupervised segmentation and time-series forecasting from satellite imagery (1983–2024)
 img: assets/img/projects/geoflux/cover.jpg
 importance: 1
-category: work
+category: journal
 related_publications: true
 ---
 
