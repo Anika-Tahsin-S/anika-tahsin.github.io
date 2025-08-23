@@ -33,9 +33,10 @@ She has received several distinctions, including First Runner-Up in the National
 
 *I am eager to collaborate on research at the intersection of computer vision, bioinformatics, multimodal AI.*
 <p class="text-center">
-  <span class="text-danger"><strong>Currently looking for PhD opportunities</strong></span><br>
-  My CV can be found <a href="{{ 'assets\pdf\AnikaTahsin_CurriculumVitae.pdf' | relative_url }}" target="_blank" rel="noopener" download>here</a>.
+  <span style="color:#dc3545; font-weight:700">Currently looking for PhD opportunities</span><br>
+  My CV can be found <a href="{{ '/cv/' | relative_url }}">here</a>.
 </p>
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
