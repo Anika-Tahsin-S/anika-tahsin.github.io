@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-## CVIS Hands‑On Training: Practical Machine Learning & Computer Vision
+## [CVIS](https://cvis.bracu.ac.bd/) Hands‑On Training: Practical Machine Learning & Computer Vision
 **Location:** BRAC University (CVIS Lab) &nbsp;|&nbsp; **Instructor:** Anika Tahsin  
 **Pre‑requisites:** Comfortable with Python; basic linear algebra and probability helpful
 
