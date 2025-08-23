@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 4
-display_categories: [journal, conference, solo, work]
+display_categories: [solo, journal, conference, work]
 horizontal: false
 ---
 

@@ -4,12 +4,12 @@ title: GeoSemantic Flux (GSF): Unsupervised Semantic Segmentation for Wetland Fl
 description: Vision–language-assisted unsupervised segmentation and time-series forecasting from satellite imagery (1983–2024)
 img: assets/img/projects/geoflux/cover.jpg
 importance: 1
-category: journal
+category: work
 related_publications: true
 ---
 
 - **GeoSemantic Flux (GSF)** is a modular framework for **unsupervised semantic segmentation** and **forecasting** of wetland area fluctuations from long-range satellite imagery (1983–2024).
-- Combines **vision–language** prompting (e.g., RAM / Grounding-DINO) with **masking & refinement** (e.g., SAM with TS-SAM enhancements) to delineate dynamic wetland boundaries.
+- Combines **vision–language** prompting (RAM / Grounding-DINO) with **masking & refinement** (e.g., SAM with TS-SAM enhancements) to delineate dynamic wetland boundaries.
 - Produces **forecast-ready time series** (per-class pixel counts/areas) for downstream trend analysis, anomaly detection, and **short-term prediction** of wetland changes.
 - Includes reproducible **preprocessing** (CLAHE + NDWI), EDA/visualization notebooks, and evaluation scripts (IoU/Dice vs. manual samples; MAPE for forecasts).
 
