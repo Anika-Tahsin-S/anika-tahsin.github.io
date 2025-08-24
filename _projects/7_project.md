@@ -24,7 +24,7 @@ related_publications: true
   </div>
 </div>
 <div class="caption">
-  GSF unsupervised mask & refinement
+  GSF unsupervised mask & refinement.
 </div>
 
 **Highlights**
