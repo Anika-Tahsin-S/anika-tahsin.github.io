@@ -430,9 +430,9 @@ ninja.data = [{
           description: "Full-stack Laravel + MySQL application for rentals and reviews",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project.html";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-multiple-sequence-alignment-msa-with-genetic-algorithm-qwen2-5",
+          title: 'Multiple Sequence Alignment (MSA) with Genetic Algorithm + Qwen2.5',
+          description: "GA-based MSA with PyTorch GPU fitness and local LLM JSON analysis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project.html";
             },},{id: "projects-",
