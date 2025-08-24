@@ -19,22 +19,6 @@ related_publications: true
 **Dataset:** [Kaggle Dataset](https://www.kaggle.com/datasets/samira1992/sequence-alignment-bioinformatics-dataset/data)  
 **Model:** [Qwen2.5-1.5B-Instruct (GGUF)](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct)
 
-<!-- <div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/msa/entropy.png" title="Entropy per column" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/msa/gap_density.png" title="Gap density plot" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/msa/pid_heatmap.png" title="Pairwise identity heatmap" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-<div class="caption">
-  Left: Column-wise conservation (entropy). Middle: Gap density across alignment. Right: Pairwise % identity heatmap of aligned sequences.
-</div> -->
-
-
 <div class="row">
   <!-- Left column: Entropy + Gap Density stacked -->
   <div class="col-sm mt-3 mt-md-0">
