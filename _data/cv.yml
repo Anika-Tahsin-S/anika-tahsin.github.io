@@ -1,97 +1,376 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+[
+  {
+    "title": "General Information",
+    "type": "map",
+    "contents": [
+      { "name": "Full Name", "value": "Anika Tahsin" },
+      { "name": "Email", "value": "tahsin.anika@bracu.ac.bd" },
+      { "name": "Website", "value": "<a href=\"https://anika-tahsin-s.github.io/\">anika-tahsin-s.github.io</a>" },
+      { "name": "GitHub", "value": "<a href=\"https://github.com/Anika-Tahsin-S\">Anika-Tahsin-S</a>" },
+      { "name": "LinkedIn", "value": "<a href=\"https://www.linkedin.com/in/anika-tahsin-936461218/\">Anika Tahsin</a>" },
+      { "name": "Google Scholar", "value": "<a href=\"https://scholar.google.com/citations?user=Ke_Yly4AAAAJ&hl=en\">Anika Tahsin</a>" },
+      { "name": "ORCID", "value": "<a href=\"https://orcid.org/0009-0009-0115-9009\">0009-0009-0115-9009</a>" },
+      { "name": "Location", "value": "Dhaka, Bangladesh" }
+    ]
+  },
+  {
+    "title": "Research Interests",
+    "type": "list",
+    "contents": [
+      "Computer Vision",
+      "Cognitive Science",
+      "Vision-Language Models",
+      "Natural Language Processing",
+      "Large Language Models",
+      "AI in Healthcare & Bioinformatics"
+    ]
+  },
+  {
+    "title": "Education",
+    "type": "time_table",
+    "contents": [
+      {
+        "title": "M.Sc. in Computer Science",
+        "institution": "BRAC University, Dhaka, Bangladesh",
+        "year": "Jun 2025 – Present (Expected May 2026)",
+        "description": []
+      },
+      {
+        "title": "B.Sc. in Computer Science",
+        "institution": "BRAC University, Dhaka, Bangladesh",
+        "year": "Apr 2020 – May 2024",
+        "description": [
+          "Cumulative GPA: 3.87/4.00 (Last 60 Credits: 3.92/4.00, Highest Distinction)",
+          "Thesis: <em>Unsupervised Semantic Segmentation for Localization of Wetland Area Fluctuations</em>",
+          "Supervisor: Dr. Md. Golam Rabiul Alam (<a href=\"https://scholar.google.com/citations?user=t4GrJR4AAAAJ&hl=en\">Google Scholar</a>), Professor, School of Data Science, BRAC University"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Experience",
+    "type": "time_table",
+    "contents": [
+      {
+        "title": "Research Assistant",
+        "institution": "BRAC University, Dhaka",
+        "year": "Aug 2024 – Present",
+        "description": [
+          "Research in computer vision, language models, and reinforcement learning with Dr. Md. Golam Rabiul Alam.",
+          "Contributed to projects/publications on image segmentation, object detection, AI-driven data analysis, and reviews.",
+          "Mentored junior researchers."
+        ]
+      },
+      {
+        "title": "Vice President, Computer Vision and Intelligent Systems Research Lab (CVIS Lab)",
+        "institution": "BRAC University",
+        "year": "Jul 2025 – Present",
+        "description": [
+          "Led the CVIS <em>Hands-on Training on Development of Machine Learning and Deep Learning Models</em>.",
+          "Designed practical exercises, curated datasets, and supervised end-to-end project workflows."
+        ]
+      },
+      {
+        "title": "Student Tutor — MAT 110 (MATH I: Differential Calculus & Co-ordinate Geometry)",
+        "institution": "BRAC University",
+        "year": "Feb 2024 – Apr 2024",
+        "description": [
+          "Provided tailored assistance and problem-solving sessions; designed practice sets and diagnostics."
+        ]
+      },
+      {
+        "title": "Student Tutor — PHY 111 (Principles of Physics I)",
+        "institution": "BRAC University",
+        "year": "Feb 2023 – Apr 2023",
+        "description": [
+          "Facilitated understanding of core physics concepts via structured walkthroughs and tutorial hours."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Research Papers & Publications",
+    "type": "time_table",
+    "contents": [
+      {
+        "title": "GeoSemantic Flux: Unsupervised Semantic Segmentation for Localization of Wetland Area Fluctuations from Satellite Image",
+        "institution": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)",
+        "year": "2025",
+        "description": [
+          "Status: Submitted",
+          "Repo: <a href=\"https://github.com/Anika-Tahsin-S/GeoFlux\">GitHub — GeoFlux</a>",
+          "Highlights: RAM + SAM + Grounding-DINO; CLAHE + NDWI preprocessing; IoU 0.90 on MLRSNet/Google Earth; GHMM & Gemini 2.5 Pro forecasting."
+        ]
+      },
+      {
+        "title": "A Real-Time ETP Outlet Monitoring Framework Leveraging Environmental IoT, Colorimetry, and Learning Theory",
+        "institution": "IEEE Access",
+        "year": "2025",
+        "description": [
+          "Status: Accepted",
+          "Link: <a href=\"https://ieeexplore.ieee.org/document/11026020\">IEEE Xplore</a>",
+          "Highlights: STM32/Raspberry Pi E-IoT; CNN (98.3%), KNN (97%), LSTM (94.9%) for WQI forecasting."
+        ]
+      },
+      {
+        "title": "Explainable Multimodal Fusion for Breast Carcinoma Diagnosis: A Systematic Review, Open Problems, and Future Directions",
+        "institution": "Clinical Imaging",
+        "year": "2025",
+        "description": [
+          "Status: Under review",
+          "Highlights: PRISMA review (49 studies); fusion strategies; XAI (Grad-CAM, SHAP); clinical interpretability."
+        ]
+      },
+      {
+        "title": "A Systematic Review on Machine Learning Paradigms: Taxonomy, Models, Purposes, Applications, Comparative Benefits, and Future Research Opportunities",
+        "institution": "PeerJ Computer Science",
+        "year": "2025",
+        "description": [
+          "Status: Under review",
+          "Highlights: Taxonomy across paradigms, abstraction layers, training philosophies; ethics (bias, privacy, interpretability)."
+        ]
+      },
+      {
+        "title": "A Comprehensive Review on Statistical and AI-Driven Approaches for Time-Series and Time-Sequential Data",
+        "institution": "SN Computer Science",
+        "year": "2025",
+        "description": [
+          "Status: Under review",
+          "Highlights: ARIMA, ETS, STL, Prophet, RNN/LSTM/CNN/Transformers, SVR, GANs; cross-domain insights."
+        ]
+      },
+      {
+        "title": "A Diversiform Brain Tumor Classification Leveraging Hybrid Recursive MRI Image Enhancement Pipeline for T1, T2, and T1C+ Images and Utilizing a Coalition of CoAtNet–HorNet Transformers",
+        "institution": "Biomedical Signal Processing and Control",
+        "year": "2025",
+        "description": [
+          "Status: Under review",
+          "Highlights: Hybrid MobileNet + CoAtNet/HorNet; recursive MRI enhancement; 94.7% on T1C+ with ~3.7M params."
+        ]
+      },
+      {
+        "title": "A Lightweight Dual Attention Multi-Axis Vision Transformer for Ocular Toxoplasmosis Classification",
+        "institution": "Journal (preparing submission)",
+        "year": "2025",
+        "description": [
+          "Status: Preparing for submission",
+          "Highlights: Da-Max-ViT (DaViT + MaxViT); 98.8–100% accuracy; 2.4M params; LIME explanations."
+        ]
+      },
+      {
+        "title": "Wildfire Scale Prediction Using Regression and Neural Network Models: An Experimental Study with MTBS Dataset",
+        "institution": "International Conference on Multidisciplinary Computer Science, Electrical, Business & Literature (ICMCEL 2025)",
+        "year": "2025",
+        "description": [
+          "Status: Accepted",
+          "Highlights: MTBS (1984–2021); Random Forest/XGBoost best (RMSE ~0.94)."
+        ]
+      },
+      {
+        "title": "Biologically Plausible Learning for NLP Using Spiking Neural Networks",
+        "institution": "International Conference on Multidisciplinary Computer Science, Electrical, Business & Literature (ICMCEL 2025)",
+        "year": "2025",
+        "description": [
+          "Status: Accepted",
+          "Highlights: SFF-RSTDP (Reward-modulated STDP + Forward-Forward); IMDB 73.2%, CARER 48.5%; low-power NLP."
+        ]
+      },
+      {
+        "title": "Generative AI Meets Responsible AI and Affective Computing",
+        "institution": "International Conference on Multidisciplinary Computer Science, Electrical, Business & Literature (ICMCEL 2025)",
+        "year": "2025",
+        "description": [
+          "Status: Accepted",
+          "Highlights: Multimodal (text/audio/facial) + majority-vote fusion; RAIsafeguards; FLAN-T5 summaries; 81% acc."
+        ]
+      },
+      {
+        "title": "Q-learning based Automated Message Multicast in Gossip Protocol for Node Confirmation in IOTA Tangle",
+        "institution": "27th International Conference on Computer and Information Technology (ICCIT 2024)",
+        "year": "2024",
+        "description": [
+          "Status: Accepted",
+          "Link: <a href=\"https://ieeexplore.ieee.org/document/11021995\">IEEE Xplore</a>",
+          "Highlights: cMana-rewarded multicast; faster dissemination (1.36s → 1.10s), higher Approval Weight (0.70 → 0.875)."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Projects",
+    "type": "time_table",
+    "contents": [
+      {
+        "title": "MRI Segmentation with U-Net (MobileNetV2 Encoder)",
+        "institution": "",
+        "year": "",
+        "description": [
+          "Repo: <a href=\"https://github.com/Anika-Tahsin-S/MRI_Segmentation_with_U-Net_MobileNetV2_encoder\">GitHub</a>",
+          "3D NIfTI → 2D; z-score normalization; BCE+Dice; AMP; grad clipping; cosine LR; early stopping; metrics: Dice/IoU/Precision/Recall/F1."
+        ]
+      },
+      {
+        "title": "Multiple Sequence Alignment (MSA) with Genetic Algorithm + Qwen2.5",
+        "institution": "",
+        "year": "",
+        "description": [
+          "Repo: <a href=\"https://github.com/Anika-Tahsin-S/Multiple-Sequence-Alignment-with-GeneticAlgorithm-Qwen2.5\">GitHub</a>",
+          "GA-based MSA with affine gaps (PAM250/BLOSUM62), PyTorch-accelerated fitness; dendrograms/heatmaps; llama-cpp (Qwen2.5-1.5B) JSON reports."
+        ]
+      },
+      {
+        "title": "Ship Detection in Aerial Images Using YOLOv10",
+        "institution": "",
+        "year": "",
+        "description": [
+          "Repo: <a href=\"https://github.com/Anika-Tahsin-S/Ship-Object-Detection-YoloV10/tree/main\">GitHub</a>",
+          "Custom dataloader, augmentations, and hyperparameter tuning; evaluated via mAP/PR/confusion analysis."
+        ]
+      },
+      {
+        "title": "Predicting Wildfires Using Machine Learning Models",
+        "institution": "",
+        "year": "",
+        "description": [
+          "Repo: <a href=\"https://github.com/Anika-Tahsin-S/Wildfire-Prediction-Using-Machine-Learning\">GitHub</a>",
+          "Compared regressors vs. shallow NNs; calibration and residual diagnostics; feature engineering and CV."
+        ]
+      },
+      {
+        "title": "Intended Sarcasm Detection in English",
+        "institution": "",
+        "year": "",
+        "description": [
+          "Repo: <a href=\"https://github.com/Anika-Tahsin-S/Intended-Sarcasm-Detection-In-English\">GitHub</a>",
+          "SemEval iSarcasmEval (Task A); unified binary corpus; BERT-base fine-tuning; F1 (sarcastic) 0.6529."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Honors and Awards",
+    "type": "time_table",
+    "contents": [
+      {
+        "year": "2025",
+        "items": [
+          "<strong>Best Thesis Award</strong>, BRAC University (<a href=\"https://drive.google.com/file/d/1XqwIRfGotUvw0YM1h-UHbeH8rP9Yhopk/view?usp=sharing\">Link</a>)"
+        ]
+      },
+      {
+        "year": "2024",
+        "items": [
+          "<strong>ICCIT 2024 Best Technical Presentation of the Session – 29 IOS</strong> (<a href=\"https://drive.google.com/file/d/1Udwrknlm2R48NO7lxrc9koPxG-gG0gHF/view?usp=sharing\">Link</a>)"
+        ]
+      },
+      {
+        "year": "2023",
+        "items": [
+          "First Runner-Up, Natural Language Processing Hackathon in Bangladesh — NER task (XLM-RoBERTa + RandomForest). <a href=\"https://github.com/Anika-Tahsin-S/NLP_Hackathon-Team_Linguistic_Mavericks\">GitHub</a> · <a href=\"https://drive.google.com/file/d/1p1EimiSJKYn3ARPjQ6Wxph796_oK1GKv/view?usp=sharing\">Certificate</a>"
+        ]
+      },
+      {
+        "year": "2021 & 2024",
+        "items": [
+          "Merit Scholarship based on BRAC University Academic Results (Summer 2021, Spring 2024)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Other Experiences",
+    "type": "time_table",
+    "contents": [
+      {
+        "title": "Intra University Programming Contest, Fall 2022 (Top 7)",
+        "institution": "BRAC University",
+        "year": "Nov 2022",
+        "description": []
+      },
+      {
+        "title": "DL Sprint 2.0 — BUET CSE Fest 2023",
+        "institution": "<a href=\"https://www.kaggle.com/competitions/dlsprint2\">Kaggle Competition</a>",
+        "year": "Sep 2023",
+        "description": [
+          "Participated in Bengali Document Layout Analysis."
+        ]
+      },
+      {
+        "title": "Robi Datathon 3.0, 2024",
+        "institution": "<a href=\"https://www.kaggle.com/competitions/robi-datathon-30-qualifier-problem-1\">Kaggle Competition</a>",
+        "year": "Apr 2024",
+        "description": [
+          "Participated in the qualifier round."
+        ]
+      },
+      {
+        "title": "RSNA 2024 Lumbar Spine Degenerative Classification",
+        "institution": "<a href=\"https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification\">Kaggle Competition</a>",
+        "year": "May – Nov 2024",
+        "description": [
+          "Participated in the competition."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Online Course Certifications",
+    "type": "time_table",
+    "contents": [
+      {
+        "title": "DataCamp — Machine Learning Scientist with Python (Track)",
+        "institution": "",
+        "year": "",
+        "description": [
+          "Certificate: <a href=\"https://www.datacamp.com/statement-of-accomplishment/track/2149fa68af87339ef8a6cd06b9fc32a29be391ab\">Link</a>",
+          "Covered regression, classification, clustering, data cleaning; multiple hands-on projects."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Skills",
+    "type": "map",
+    "contents": [
+      { "name": "Languages", "value": "Python, JavaScript, C#, C++, HTML, CSS, SQL, Assembly" },
+      { "name": "Machine Learning", "value": "PyTorch, TensorFlow, Keras, OpenCV, Transformers, BioPython, LlamaCPP" },
+      { "name": "Software", "value": "LaTeX, Bash, Flex" },
+      { "name": "Frameworks", "value": "FastAPI, Django, Flask, Laravel" },
+      { "name": "Databases", "value": "MySQL, PostgreSQL, MariaDB, MongoDB" },
+      { "name": "OS", "value": "Linux, Windows" }
+    ]
+  },
+  {
+    "title": "References",
+    "type": "time_table",
+    "contents": [
+      {
+        "title": "Md. Golam Rabiul Alam, Ph.D.",
+        "institution": "Professor, School of Data Science, BRAC University — Director, <a href=\"https://cvis.bracu.ac.bd/\">CVIS Lab</a>",
+        "year": "",
+        "description": [
+          "Email: <a href=\"mailto:rabiul.alam@bracu.ac.bd\">rabiul.alam@bracu.ac.bd</a>",
+          "Profiles: <a href=\"https://scholar.google.com/citations?user=t4GrJR4AAAAJ&hl=en\">Google Scholar</a> · <a href=\"https://www.bracu.ac.bd/about/people/md-golam-rabiul-alam-phd\">BRAC University Page</a>"
+        ]
+      },
+      {
+        "title": "Dr. Md. Ashraful Alam",
+        "institution": "Associate Professor, Department of CSE, BRAC University — Director, <a href=\"https://cvis.bracu.ac.bd/\">CVIS Lab</a>",
+        "year": "",
+        "description": [
+          "Email: <a href=\"mailto:ashraful.alam@bracu.ac.bd\">ashraful.alam@bracu.ac.bd</a>",
+          "Profiles: <a href=\"https://scholar.google.com/citations?user=NDJ6mRUAAAAJ&hl=en\">Google Scholar</a> · <a href=\"https://www.bracu.ac.bd/about/people/md-ashraful-alam-phd\">BRAC University Page</a>"
+        ]
+      },
+      {
+        "title": "S. M. Masrur Ahmed",
+        "institution": "Ph.D. Student, Computer and Information Science, University of Houston — Former Senior Engineer, Advanced Research (bKash Ltd.)",
+        "year": "",
+        "description": [
+          "Email: <a href=\"mailto:sahmed75@uh.edu\">sahmed75@uh.edu</a>",
+          "Profile: <a href=\"https://scholar.google.com/citations?user=D6Y-uVsAAAAJ&hl=en\">Google Scholar</a>"
+        ]
+      }
+    ]
+  }
+]
